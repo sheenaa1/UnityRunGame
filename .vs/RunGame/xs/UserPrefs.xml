@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{95ACDEB0-3F3E-ADC0-C654-EE031B4AB388}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Plane.cs">
+    <Files>
+      <File FileName="Assets/BallMovement.cs" Line="28" Column="6" />
+      <File FileName="Assets/Plane.cs" Line="99" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="eb0b8822-3d58-4479-a054-e45639dea80b" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
